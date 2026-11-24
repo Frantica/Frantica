@@ -21,7 +21,7 @@
 
 | App | What it is | Reach |
 |---|---|---|
-| **Ongaku** | Offline music player: Media3, background playback, gapless, equaliser | **50K+** Play Store |
+| **Ongaku** · [Play](https://play.google.com/store/apps/details?id=com.ongaku) | Offline music player: Media3, background playback, gapless, equaliser | **10K+** Play Store |
 | **Kumsing** · [Play](https://play.google.com/store/apps/details?id=com.kanglalabs.kumsing) · [App Store](https://apps.apple.com/in/app/kumsing-manipuri-calendar-2026/id6804580494) | Manipuri (Meitei) calendar: festivals, lunar days, reminders | **10K+** Play · **5K+** App Store |
 | **Muzio Player** *(Apps10x)* | Music & video player: Android Auto, MP4 cutter | Millions of installs |
 | **ScanIt** *(Apps10x)* | AI document scanner | 500K+ users |
