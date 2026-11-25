@@ -20,28 +20,19 @@
 
 | App | What it is | Reach |
 |---|---|---|
-| **Ongaku** · [Play](https://play.google.com/store/apps/details?id=com.ongaku) | My own app: offline music player with equalizer, gapless playback, Android Auto and Cast | **10K+** Play Store |
-| **Kumsing** · [Play](https://play.google.com/store/apps/details?id=com.kanglalabs.kumsing) · [App Store](https://apps.apple.com/in/app/kumsing-manipuri-calendar-2026/id6804580494) | My own app: Manipuri (Meitei) calendar with festivals, widgets and reminders | **10K+** Play · **5K+** App Store |
-| **Muzio Player** *(Apps10x)* · [Play](https://play.google.com/store/apps/details?id=com.shaiban.audioplayer.mplayer) | Music & video player: Android Auto, MP4 cutter | **100M+** Play Store |
-| **ScanIt**, now listed as SnapScanner *(Apps10x)* · [Play](https://play.google.com/store/apps/details?id=com.apps10x.scannerapp) | AI document scanner | **500K+** Play Store |
+| <img src="assets/icons/ongaku.png" width="32" align="center" alt=""> &nbsp;**Ongaku** · [Play](https://play.google.com/store/apps/details?id=com.ongaku) | My own app: offline music player with equalizer, gapless playback, Android Auto and Cast | **10K+** Play Store |
+| <img src="assets/icons/kumsing.png" width="32" align="center" alt=""> &nbsp;**Kumsing** · [Play](https://play.google.com/store/apps/details?id=com.kanglalabs.kumsing) · [App Store](https://apps.apple.com/in/app/kumsing-manipuri-calendar-2026/id6804580494) | My own app: Manipuri (Meitei) calendar with festivals, widgets and reminders | **10K+** Play · **5K+** App Store |
+| <img src="assets/icons/muzio.png" width="32" align="center" alt=""> &nbsp;**Muzio Player** *(Apps10x)* · [Play](https://play.google.com/store/apps/details?id=com.shaiban.audioplayer.mplayer) | Music & video player: Android Auto, MP4 cutter | **100M+** Play Store |
+| <img src="assets/icons/scanit.png" width="32" align="center" alt=""> &nbsp;**ScanIt**, now listed as SnapScanner *(Apps10x)* · [Play](https://play.google.com/store/apps/details?id=com.apps10x.scannerapp) | AI document scanner | **500K+** Play Store |
 
 ### 📈 App numbers
 
-<!-- STATS:START -->
-| Store | Downloads badge | Rating (count) |
-|---|---|---|
-| Ongaku · Google Play | 10K+ | ★ 4.2 (331) |
-| Kumsing · Google Play | 10K+ | ★ 4.9 (83) |
-| Kumsing · App Store | – | ★ 4.7 (193) |
-<!-- STATS:END -->
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.ongaku"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats/ongaku-dark.svg"><img src="assets/stats/ongaku-light.svg" width="49%" alt="Ongaku: 48.6K new users on Google Play, 5.2K monthly active, 1.5K daily active"></picture></a>
+  <a href="https://play.google.com/store/apps/details?id=com.kanglalabs.kumsing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats/kumsing-dark.svg"><img src="assets/stats/kumsing-light.svg" width="49%" alt="Kumsing: 10K new users on Google Play, 7.1K monthly active, 1.4K daily active"></picture></a>
+</p>
 
-<sub>Read daily from the public store pages (India storefront).</sub>
-
-| Play Console snapshot · 25 Nov 2026 | Ongaku | Kumsing |
-|---|---|---|
-| Total reach | **48.6K** lifetime new users | **10.4K** total installs |
-| Monthly active users | **5.2K** (18 Nov) | **7.1K** (28-day average) |
-| Daily active users | **1.5K** (18 Nov) | **1.4K** (28-day average) |
+<p align="center"><sub>Ratings refresh daily from the India storefront. Everything else: Play Console snapshot, 25 Nov 2026.<br>* Ongaku: 18 Nov. Kumsing: 28-day average.</sub></p>
 
 ### ⭐ Featured open source
 

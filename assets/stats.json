@@ -1,0 +1,25 @@
+{
+  "snapshot": "25 Nov 2026",
+  "apps": [
+    {
+      "key": "ongaku", "name": "Ongaku", "tagline": "Offline music player", "play": "com.ongaku",
+      "light": "#e34948", "dark": "#e66767",
+      "hero": "48.6K", "heroLabel": "new users on Google Play",
+      "chartTitle": "Cumulative new users", "max": 50000, "ticks": [0, 25000, 50000],
+      "xLabels": ["Aug 2023", "Nov 2026"],
+      "stats": [["5.2K", "monthly active*"], ["1.5K", "daily active*"]],
+      "note": "*18 Nov",
+      "points": [100,147,161,163,164,170,184,197,200,209,219,228,235,240,242,296,780,806,831,1204,1294,1413,1824,3357,5290,7961,11831,15928,20069,24767,28809,33017,36784,39684,42466,45799,46987,47662,48234,48647]
+    },
+    {
+      "key": "kumsing", "name": "Kumsing", "tagline": "Manipuri (Meitei) calendar", "play": "com.kanglalabs.kumsing", "appStore": "6804580494",
+      "light": "#2a78d6", "dark": "#3987e5",
+      "hero": "10K", "heroLabel": "new users on Google Play",
+      "chartTitle": "Cumulative new users", "max": 12000, "ticks": [0, 6000, 12000],
+      "xLabels": ["25 Oct 2026", "22 Nov 2026"],
+      "stats": [["7.1K", "monthly active*"], ["1.4K", "daily active*"]],
+      "note": "*28-day average",
+      "points": [138,141,144,5022,7011,7827,8390,8660,8852,9003,9114,9210,9317,9400,9488,9565,9634,9679,9741,9784,9821,9852,9891,9921,9968,9999,10034,10054,10083]
+    }
+  ]
+}
