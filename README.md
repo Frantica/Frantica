@@ -2,7 +2,7 @@
 <h3 align="center">Android Engineer · 5+ years · Kotlin · Media & offline-first apps · apps with 100M+ installs</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhijeet-mutum"><img src="https://img.shields.io/badge/LinkedIn-abhijeet--mutum-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abhijeet-mutum-65b925220"><img src="https://img.shields.io/badge/LinkedIn-abhijeet--mutum-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abhijeetmutum8@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Senior%20Android%20%2F%20KMP%20roles-3DDC84?logo=android&logoColor=white" />
 </p>
