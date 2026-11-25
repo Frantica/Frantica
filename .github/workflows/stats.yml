@@ -1,0 +1,23 @@
+name: Update app stats
+on:
+  schedule:
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/update-stats.mjs
+      - name: Commit if changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "abhijeet"
+          git config user.email "abhijeetmutum8@gmail.com"
+          git commit -am "Update app stats"
+          git push

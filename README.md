@@ -25,6 +25,24 @@
 | **Muzio Player** *(Apps10x)* · [Play](https://play.google.com/store/apps/details?id=com.shaiban.audioplayer.mplayer) | Music & video player: Android Auto, MP4 cutter | **100M+** Play Store |
 | **ScanIt**, now listed as SnapScanner *(Apps10x)* · [Play](https://play.google.com/store/apps/details?id=com.apps10x.scannerapp) | AI document scanner | **500K+** Play Store |
 
+### 📈 App numbers
+
+<!-- STATS:START -->
+| Store | Downloads badge | Rating (count) |
+|---|---|---|
+| Ongaku · Google Play | 10K+ | ★ 4.2 (331) |
+| Kumsing · Google Play | 10K+ | ★ 4.9 (83) |
+| Kumsing · App Store | – | ★ 4.7 (193) |
+<!-- STATS:END -->
+
+<sub>Read daily from the public store pages (India storefront).</sub>
+
+| Play Console snapshot · 25 Nov 2026 | Ongaku | Kumsing |
+|---|---|---|
+| Total reach | **48.6K** lifetime new users | **10.4K** total installs |
+| Monthly active users | **5.2K** (18 Nov) | **7.1K** (28-day average) |
+| Daily active users | **1.5K** (18 Nov) | **1.4K** (28-day average) |
+
 ### ⭐ Featured open source
 
 **[meitei-calendar-kmp](https://github.com/Frantica/meitei-calendar-kmp)**: a Kotlin Multiplatform library for the Meitei lunar calendar, computed astronomically, with a Compose Multiplatform demo for Android, desktop and web; library tests also run on iOS. **[▶ Live demo](https://frantica.github.io/meitei-calendar-kmp/)**
